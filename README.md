@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dolor-de-extranarte/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Dolor de extrañarte](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-de-extranarte/) |
+| **Get License** | [Request Licensing for Dolor de extrañarte](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-de-extranarte/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la luna sabe que me faltas tú,
+> Buscando tu sombra entre la multitud.
+> Tu recuerdo me quema, me quita la luz,
+> Dime quién te baila con esta actitud.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
