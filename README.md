@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dolor-de-extranarte/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Dolor de extrañarte](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-de-extranarte/) |
+| **Get License** | [License this song: Dolor de extrañarte](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-de-extranarte/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3583)
 
 ---
 
