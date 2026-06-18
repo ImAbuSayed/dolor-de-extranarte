@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dolor de extrañarte
+
+This log tracks the cryptographic history and versioning for the song **Dolor de extrañarte** (dolor-de-extranarte).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T07:03:03.170080 | `v1` | `846e5ce35bbcc3bd7f528dfcbe220ac1b4d1f9c350b5c9b783b21073a1c27684` | `b3ce0f6fff4ccf73d170180f60761949e88f6a2dfc9540abc9f65c65bf264ea4` | `2026-06-18_dolor-de-extranarte-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
